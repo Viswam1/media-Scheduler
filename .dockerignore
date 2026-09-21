@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.db
+data/
+.env
+.venv/
+venv/
+.git/
+.gitignore
+.streamlit/secrets.toml
+.DS_Store
+*.md
+Dockerfile
+docker-compose.yml
+.dockerignore
