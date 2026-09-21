@@ -11,5 +11,4 @@ venv/
 .DS_Store
 *.md
 Dockerfile
-docker-compose.yml
 .dockerignore
